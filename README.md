@@ -8,7 +8,7 @@ Country Explorer is a full-stack web application that allows users to explore de
 
 The application is live and accessible at:
 
-👉 [https://country-seven-xi.vercel.app/.](https://countries-zzew.vercel.app/)
+👉 [https://country-explorer-75oz.vercel.app/](https://country-explorer-75oz.vercel.app/)
 
 ---
 
